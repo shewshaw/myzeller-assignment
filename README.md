@@ -1,3 +1,11 @@
+# MyZeller Assignment
+
+## Available Commands
+
+- **To run the application:** `npm start`
+- **To run test cases:** `npm test`
+
+
 Zeller is starting a computer store. You have been engaged to build the checkout system. We will start with the following products in our catalogue
 
 
