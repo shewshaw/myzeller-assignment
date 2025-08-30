@@ -2,7 +2,10 @@
 
 ## Available Commands
 
-- **To run the application:** `npm start`
+- **To run the application:** 
+  
+  `npm i`  
+  `npm start`
 - **To run test cases:** `npm test`
 
 
